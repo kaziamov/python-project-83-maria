@@ -1,0 +1,10 @@
+.venv/
+dist/
+__pycache__
+*.cast/
+*.swp
+files/
+*.cast
+coverage.xml
+.coverage
+.env
